@@ -38,9 +38,11 @@ Robot dimensions:
 ### 4. Try to guess your partner’s robot trajectory
 #####  Try all algorithms that can be applied in your case (KF, EKF, UKF, PF)
 I extract the data from _Dich_ dataset. Below you see the trajectory, that was recorded by my partner. Robot starts at (0,0) point.
+
 ![trajectory 1](Photo/trajectory-1.png)
 
 Rotation of the robot during the movement is the following:
+
 ![rotation](Photo/rotation.png)
 
 _See the more detailed explanation in trajectory-extraction notebook._
